@@ -1,16 +1,11 @@
 ### Hi there 👋
-😄I`m Java Backend Developer
-👀I`m looking to collaborate on toy project <br/>
-📫How to reach me ywsohms7745@gmail.com <br/>
-⚡Three new projects are being prepared.<br/>
-😄I like Java the most.<br/>
 
-
-- 👋 Hi, I’m @6ud Guin
-- 👀 I’m interested in Java and db
-- 🌱 I’m currently learning Java for Backend Developer!!
-- 💞️ I’m looking to collaborate on toy project
-- 📫 How to reach me ... ywsohms7745@gmail.com
+- 👋 Hi, I’m @6ud Guin.
+- ⚡I`m Java Backend Developer
+- 👀 I’m interested in Java and db.
+- 😄I like Java the most.
+- 💞️ I’m looking to collaborate on Java project.
+- 📫 How to reach me ... ywsohms7745@gmail.com.
 
 
 <!--
