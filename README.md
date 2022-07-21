@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄I`m Java Backend Developer :)
+😄I`m Java Backend Developer :) <
 👀I`m looking to collaborate on toy project
 📫How to reach me ywsohms7745@gmail.com
 ⚡Three new projects are being prepared.
