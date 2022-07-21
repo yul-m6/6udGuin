@@ -1,9 +1,9 @@
 ### Hi there 👋
-😄I`m Java Backend Developer :) <br>
-👀I`m looking to collaborate on toy project
-📫How to reach me ywsohms7745@gmail.com
-⚡Three new projects are being prepared.
-😄I like Java the most.
+😄I`m Java Backend Developer :) <br/>
+👀I`m looking to collaborate on toy project <br/>
+📫How to reach me ywsohms7745@gmail.com <br/>
+⚡Three new projects are being prepared.<br/>
+😄I like Java the most.<br/>
 <!--
 **6udguin/6udGuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
