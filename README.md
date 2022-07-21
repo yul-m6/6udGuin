@@ -5,7 +5,7 @@
 - 👀 I’m interested in Java and db.
 - 😄I like Java the most.
 - 💞️ I’m looking to collaborate on Java project.
-- 📫 How to reach me ... ywsohms7745@gmail.com.
+- 📫 How to reach me ... ywsohms7745@gmail.com
 
 
 <!--
