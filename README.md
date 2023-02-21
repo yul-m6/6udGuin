@@ -47,11 +47,12 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=6udguin&layout=compact">
   
 
+<!--
 #### :penguin:my github status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6udguin&show_icons=true&theme=transparent)
 
-
+-->
 
 <!--
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code_guin">
@@ -63,14 +64,14 @@
 https://haesoo9410.tistory.com/143
 https://github.com/haesoo-y
 -->
-
+<!--
 - 👋 Hi, I’m @6ud Guin.
 - ⚡I`m Java Backend Developer
 - 👀 I’m interested in Java and db.
 - 😄I like Java the most.
 - 💞️ I’m looking to collaborate on Java project.
 - 📫 How to reach me ... ywsohms7745@gmail.com
-
+-->
 
 <!--
 **6udguin/6udGuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
