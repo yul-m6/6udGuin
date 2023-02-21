@@ -44,6 +44,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6udguin%2Fhit-counter&count_bg=%233DBCC8&title_bg=%2373B1DF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+
+
 - 👋 Hi, I’m @6ud Guin.
 - ⚡I`m Java Backend Developer
 - 👀 I’m interested in Java and db.
