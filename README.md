@@ -46,8 +46,6 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code_guin">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo_y" height="165">
-
 
 - 👋 Hi, I’m @6ud Guin.
 - ⚡I`m Java Backend Developer
