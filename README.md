@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6udguin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
-
+#### :penguin:my github status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6udguin&show_icons=true&theme=transparent)
 
