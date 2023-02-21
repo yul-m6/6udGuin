@@ -47,7 +47,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code_guin">
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ywsohms7745@gmail.com)](https://solved.ac/ywsohms7745@gmail.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=e6guin)](https://solved.ac/e6guin/)
 
 
 
