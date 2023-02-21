@@ -1,24 +1,27 @@
-
-
-
-
 ![header](https://capsule-render.vercel.app/api?height=300&type=Waving&text=Welecome&nbsp;my&nbsp;Github&fontColor=f9f9f9)
 
 # guin 😉
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6udguin%2Fhit-counter&count_bg=%233DBCC8&title_bg=%2373B1DF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ywsohms7745@gmail.com) 
- <!--
-####  :wave: Welcome my github profile !
--->
 
-### Hi there 👋
- <br/>
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=e6guin">
+
+- 🌱 I’m currently learning `docker`, `k8s`, `AWS`
+- 🥇 I majored in Economics
+- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
  
 ####  :wave: an ongoing project
- "4INSPACE"
- <br/>
- <br/>
+<!--
+- 🎓 Hanyang University , Economics(ERICA) (2014.03~2022.08)
+- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
+- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 🔥 Naver boostcamp 6th, Web Fullstack (2021.07~2021.12)
+- 🍫 Kakao Enterprise, AI Lab & Service FE (2022.02~ ) 
+-->
+ 
+ 
   
 ####  :clipboard: Once I've Used 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
