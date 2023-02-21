@@ -44,10 +44,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </div>
  
-#### :pencil2:language tag
- 
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6udguin&layout=compact">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=6udguin&layout=compact">
   
 
 #### :penguin:my github status
