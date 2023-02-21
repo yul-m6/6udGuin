@@ -13,10 +13,6 @@
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
  
 ### an ongoing project
-
-- Web Crawling Project (done)
-- Search api project (done)
-- Completed the Nomad Coder Python Challenge (done)
 - 4INSPACE ~ 
 
  
@@ -38,7 +34,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-
+<br/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
