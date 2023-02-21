@@ -57,9 +57,9 @@
 <!--
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=code_guin">
 -->
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=e6guin)](https://solved.ac/e6guin/)
-
+-->
 <!--
 https://haesoo9410.tistory.com/143
 https://github.com/haesoo-y
