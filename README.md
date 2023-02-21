@@ -23,8 +23,8 @@
 
 ### What I Like
 
-- 📺 Drama
-- 👾 Animation
+- 📺 Movie
+- 🐧 Penguin and 🐈‍⬛ cat
 - 🍕 Pizza
 - 📚 Books 
   
