@@ -1,7 +1,7 @@
 <div align="center">
-
+ <p width="200px">
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=guin)
-
+<p>
 ####  :wave: Welcome my github profile !
 
 
