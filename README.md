@@ -12,7 +12,7 @@
 - 🥇 I majored in Economics
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
  
-####  :wave: an ongoing project
+### :wave: an ongoing project
 <!--
 - 🎓 Hanyang University , Economics(ERICA) (2014.03~2022.08)
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
