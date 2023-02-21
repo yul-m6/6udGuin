@@ -8,9 +8,9 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=e6guin">
 
-- 🌱 I’m currently learning `docker`, `k8s`, `AWS`
-- 🥇 I majored in Economics
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 🌱 I’m currently learning `docker`, `thymeleaf`, `linux`
+- 🥇 I majored in electrical engineering.
+- 🚅 My hometown is Yangsan, Gyeongsangnam-do in Korea
  
 ### an ongoing project
 - 4INSPACE ~ 
