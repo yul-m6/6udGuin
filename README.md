@@ -21,7 +21,14 @@
 - 🍫 Kakao Enterprise, AI Lab & Service FE (2022.02~ ) 
 -->
  
- 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo-y" height="165">
+
+### What I Like
+
+- 📺 Drama
+- 👾 Animation
+- 🍕 Pizza
+- 📚 Books 
   
 ####  :clipboard: Once I've Used 
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
