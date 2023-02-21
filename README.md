@@ -28,7 +28,7 @@
 - 🍕 Pizza
 - 📚 Books 
   
-####  :clipboard: Once I've Used 
+### Once I've Used 
 <div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
