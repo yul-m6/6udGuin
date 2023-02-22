@@ -24,7 +24,6 @@
 ### What I Like
 
 - 📺 Movie
-- 🐧 Penguin and 🐈‍⬛ cat
 - 🍕 Pizza
 - 📚 Books 
   
