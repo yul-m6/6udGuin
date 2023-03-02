@@ -19,6 +19,11 @@
 - Food Recipe Bulletin Community
 - Antarctica and Penguins
 
+### an upcoming study
+- GraphQL
+- TypeScript
+- Learning Other Lectures 
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=6udguin" height="165">
 
 ### What I Like
