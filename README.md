@@ -6,7 +6,7 @@
 
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=e6guin">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=6udguin">
 
 - 🌱 I’m currently learning `docker`, `thymeleaf`, `linux`
 - 🥇 I majored in electrical engineering.
