@@ -24,7 +24,7 @@
 - TypeScript
 - Learning Other Lectures 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=6udguin" height="165">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=6udguin" height="165"> -->
 
 ### What I Like
 
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=6udguin&layout=compact"> -->
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=6udguin&layout=compact">
   
 
 <!--
