@@ -13,11 +13,10 @@
 - 🚅 My hometown is Yangsan, Gyeongsangnam-do in Korea
  
 ### an ongoing project
-- 4INSPACE ~ 
+- vrecipe ~ 
 
 ### a project under plan
-- Food Recipe Bulletin Community
-- Antarctica and Penguins
+- price comparison website
 
 ### an upcoming study
 - GraphQL
