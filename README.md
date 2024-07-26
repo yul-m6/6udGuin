@@ -13,7 +13,7 @@
 - 🚅 My hometown is Yangsan, Gyeongsangnam-do in Korea
  
 ### an ongoing project
-- vrecipe ~ 
+- market ~ 
 
 ### a project under plan
 - price comparison website
